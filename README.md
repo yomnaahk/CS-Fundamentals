@@ -16,14 +16,14 @@ Each course includes **notes, exercises, and projects** to track progress and pr
 
 ## ✅ Progress Tracker
 
-- [x] Course 01: Foundations Level 1  
-- [x] Course 02: Algorithms Level 1  
-- [x] Course 03: C++ Level 1  
-- [x] Course 04: Advanced Solutions for Algorithms Level 1  
-- [x] Course 05: Algorithms Level 2  
-- [x] Course 06: C++ Level 2  
-- [x] Course 07: Algorithms Level 3  
-- [x] Course 08: Algorithms Level 4  
+- [ ] Course 01: Foundations Level 1  
+- [ ] Course 02: Algorithms Level 1  
+- [ ] Course 03: C++ Level 1  
+- [ ] Course 04: Advanced Solutions for Algorithms Level 1  
+- [ ] Course 05: Algorithms Level 2  
+- [ ] Course 06: C++ Level 2  
+- [ ] Course 07: Algorithms Level 3  
+- [ ] Course 08: Algorithms Level 4  
 - [ ] Course 09: Foundations Level 2  
 - [ ] Course 10: OOP Level 1  
 - [ ] Course 11: OOP Level 2  
